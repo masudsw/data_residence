@@ -1,0 +1,146 @@
+[
+    {
+        "img_src": "https: //i.ibb.co/VJRy78r/1.jpg",
+        "id": 1,
+        "estate_title": "Luxury Villa with Ocean View",
+        "segment_name": "Villa",
+        "description": "Beautiful villa with stunning ocean view",
+        "price": "$1,500,000",
+        "Status": "sale",
+        "Area": "5000 sq ft",
+        "location": "Miami, Florida",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "garden"
+        ]
+    },
+    {
+        "img_src": "https: //i.ibb.co/kmBktf6/2.jpg",
+        "id": 2,
+        "estate_title": "Cozy Apartment in the City Center",
+        "segment_name": "Apartment",
+        "description": "Modern apartment in the heart of the city",
+        "price": "$1,200/month",
+        "Status": "rent",
+        "Area": "1000 sq ft",
+        "location": "New York City, New York",
+        "facilities": [
+            "living room",
+            "gym",
+            "rooftop terrace"
+        ]
+    },
+    {
+        "img_src":"https: //i.ibb.co/Kxw0Jxh/3.jpg",
+        "id": 3,
+        "estate_title": "Spacious Family Home",
+        "segment_name": "House",
+        "description": "Ideal home for a growing family",
+        "price": "$350,000",
+        "Status": "sale",
+        "Area": "2500 sq ft",
+        "location": "Los Angeles, California",
+        "facilities": [
+            "living room",
+            "backyard",
+            "garage"
+        ]
+    },
+    {
+        "img_src":"https: //i.ibb.co/XVMzN1M/4.jpg",
+        "id": 4,
+        "estate_title": "Luxury Penthouse with Panoramic Views",
+        "segment_name": "Penthouse",
+        "description": "Exclusive penthouse with breathtaking views",
+        "price": "$3,000,000",
+        "Status": "sale",
+        "Area": "7000 sq ft",
+        "location": "Chicago, Illinois",
+        "facilities": [
+            "living room",
+            "swimming pool",
+            "sauna"
+        ]
+    },
+    {
+        "img_src":"https: //i.ibb.co/R4VjFhz/5.jpg",
+        "id": 5,
+        "estate_title": "Charming Cottage in the Countryside",
+        "segment_name": "Cottage",
+        "description": "Quaint cottage surrounded by nature",
+        "price": "$800/month",
+        "Status": "rent",
+        "Area": "1500 sq ft",
+        "location": "Seattle, Washington",
+        "facilities": [
+            "living room",
+            "fireplace",
+            "patio"
+        ]
+    },
+    {
+        "img_src":"https: //i.ibb.co/BNwFHMH/6.jpg",
+        "id": 6,
+        "estate_title": "Modern Townhouse in a Gated Community",
+        "segment_name": "Townhouse",
+        "description": "Contemporary townhouse in a secure community",
+        "price": "$500,000",
+        "Status": "sale",
+        "Area": "1800 sq ft",
+        "location": "Dallas, Texas",
+        "facilities": [
+            "living room",
+            "community pool",
+            "playground"
+        ]
+    },
+    {
+        "img_src":"https: //i.ibb.co/jhHjZJN/7.jpg",
+        "id": 7,
+        "estate_title": "Beachfront Condo with Spectacular Views",
+        "segment_name": "Condo",
+        "description": "Elegant condo overlooking the beach",
+        "price": "$2,500/month",
+        "Status": "rent",
+        "Area": "1200 sq ft",
+        "location": "San Francisco, California",
+        "facilities": [
+            "living room",
+            "balcony",
+            "fitness center"
+        ]
+    },
+    {
+        "img_src":"https://i.ibb.co/JBWk490/8.jpg",
+        "id": 8,
+        "estate_title": "Rustic Cabin Retreat in the Mountains",
+        "segment_name": "Cabin",
+        "description": "Secluded cabin retreat in the mountains",
+        "price": "$400,000",
+        "Status": "sale",
+        "Area": "2000 sq ft",
+        "location": "Denver, Colorado",
+        "facilities": [
+            "living room",
+            "deck",
+            "hot tub"
+        ]
+    },
+    {
+        "img_src":"https://i.ibb.co/gPw7Pjz/9.jpg",
+        "id": 9,
+        "estate_title": "Modern Loft with Industrial Charm",
+        "segment_name": "Loft",
+        "description": "Stylish loft with industrial accents",
+        "price": "$1,800/month",
+        "Status": "rent",
+        "Area": "900 sq ft",
+        "location": "Austin, Texas",
+        "facilities": [
+            "living room",
+            "exposed brick",
+            "rooftop deck"
+        ]
+    }
+]
