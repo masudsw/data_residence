@@ -1,6 +1,6 @@
 [
     {
-        "img_src": "https://i.ibb.co/VJRy78r/1.jpg",
+        "img_src":"https://i.ibb.co/VJRy78r/1.jpg",
         "id": 1,
         "estate_title": "Luxury Villa with Ocean View",
         "segment_name": "Villa",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "img_src": "https://i.ibb.co/kmBktf6/2.jpg",
+        "img_src":"https://i.ibb.co/kmBktf6/2.jpg",
         "id": 2,
         "estate_title": "Cozy Apartment in the City Center",
         "segment_name": "Apartment",
